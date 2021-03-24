@@ -1,3 +1,3 @@
 # inspirationDessing
 
-Link: https://iasv.github.io/inspirationDessing/
+Link page: https://iasv.github.io/inspirationDessing/
